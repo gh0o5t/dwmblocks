@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"  ",      "memory.sh",          	    10,	            	0},
-	{"",         "network.sh",               	10,	            	0},
+	{"",         "network.sh",            	10,	            	0},
 	{"",         "battery.sh",             	10,	            	0},
 	{"  ",      "date.sh",			    	5,	            	0},
 };
